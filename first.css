@@ -371,7 +371,7 @@ section {
   display: block;
   box-shadow: var(--neon-box-shadow);
   border: 1px solid var(--hover-color);
-  outline: 2px solid var(--bg-color);
+ /* outline: 2px solid var(--bg-color); */
   z-index: 100;
   animation: morph 6s linear infinite;
 }
@@ -451,7 +451,7 @@ section {
   position: relative;
   color: var(--hover-color);
   box-shadow: var(--neon-box-shadow);
-  outline: 3px solid beige;
+/*  outline: 3px solid beige; */
 }
 
 .service-box h3 {
@@ -844,7 +844,7 @@ border-radius: 2px;
   width: 50px;
   height: 50px;
   border: 1px solid var(--hover-color);
-  outline: 2px solid #fff;
+/*  outline: 2px solid #fff; */
   
 }
 
